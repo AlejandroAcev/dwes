@@ -5,11 +5,6 @@ class Product
     public string $name;
     public int $units;
 
-    // public function __construct(
-    //   public string $name,
-    //   public int $units
-    // ) {}
-
     public function __construct(
       $name,
       $units
